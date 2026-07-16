@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-es2y2y.kilat777res.lat/sitemap.xml
